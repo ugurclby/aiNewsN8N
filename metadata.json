@@ -1,0 +1,5 @@
+{
+  "name": "n8n AI Haber Akışı Oluşturucu",
+  "description": "n8n üzerinde otomatik AI haber toplayıcı akışı oluşturmak için JavaScript kodu ve AI istemleri (prompt) oluşturan bir yapılandırma aracı.",
+  "requestFramePermissions": []
+}
